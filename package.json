@@ -1,0 +1,19 @@
+{
+  "name": "si_quiz14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirankumar-s/SI_Quiz14.git"
+  },
+  "author": "Kiran Kumar Samatham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirankumar-s/SI_Quiz14/issues"
+  },
+  "homepage": "https://github.com/kirankumar-s/SI_Quiz14#readme"
+}
